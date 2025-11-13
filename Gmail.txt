@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Gmail (short for Google Mail) is a free email service developed by Google.
 It allows you to send, receive, and store emails using the internet.
+=======
+Free, fast, and reliable
+Easy to use
+Accessible from anywhere
+Safe and secure
+Integrates with all Google services
+>>>>>>> feature/decrypt-acc-details
